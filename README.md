@@ -1,4 +1,4 @@
-# G. Sav**
+# G.S.
 
 I build backend services, data pipelines, and developer tools. At the University of Würzburg I work on extracting and validating manuscript metadata. I also benchmark GPU workloads and build tools to measure their performance.
 
@@ -12,4 +12,4 @@ I build backend services, data pipelines, and developer tools. At the University
 - [Parallel Cache Simulator](https://github.com/0chonko/parallel-cache-simulator) — Trace-driven C++ and SystemC models of L1 caches and multicore coherence.
 - [Alexa–Tailscale Bridge](https://github.com/0chonko/alexa-tailscale-bridge) — Authenticated HTTP integration with background jobs and a runnable local demo.
 
-[Portfolio](https://0chonko.github.io/) · [LinkedIn](https://linkedin.com/in/german-savchenko-9aa363138/)
+[Portfolio](https://0chonko.github.io/)

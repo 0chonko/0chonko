@@ -1,4 +1,4 @@
-# German Savchenko
+# G. Sav**
 
 I build backend services, data pipelines, and developer tools. At the University of Würzburg I work on extracting and validating manuscript metadata. I also benchmark GPU workloads and build tools to measure their performance.
 

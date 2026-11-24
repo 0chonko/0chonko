@@ -6,6 +6,7 @@ I build backend services, data pipelines, and developer tools. At the University
 
 - [Manuscript metadata pipeline](https://0chonko.github.io/blog/from-manuscript-transcriptions-to-json-a-configurable-extraction-pipeline/) — Configurable extraction, schema validation, and evaluation for historical catalogues.
 - [PHPUnit CI plugin](https://github.com/0chonko/phpunit-plugin) — Docker-packaged test runner for Drone CI.
+- [Alexa–Tailscale bridge](https://github.com/0chonko/alexa-tailscale-container) — Authenticated HTTP integration with background jobs and a runnable local demo.
 - [HPC communication benchmarks](https://github.com/0chonko/HPC-net-bench) — A100/H100 benchmarks and asynchronous power sampling.
 - [Open Kernel Challenge](https://github.com/0chonko/open-kernel-challenge-meta) — CUDA inference kernel experiments on an H200.
 
